@@ -9,4 +9,4 @@ The node-red endpoint website for predicting the life expectancy is https://node
 
 The YouTube vedio link for demonstration of the project is https://youtu.be/yUe2juE-AMI.
 
-[](images/screenshot_20200611-112507-large.png)
+
