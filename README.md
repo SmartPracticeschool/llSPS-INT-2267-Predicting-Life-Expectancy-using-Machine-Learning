@@ -6,6 +6,4 @@ Life expectancy is a statistical measure of the average time a human being is ex
 
 
 
-The YouTube vedio link for demonstration of the project is https://youtu.be/yUe2juE-AMI.
-
-
+The YouTube vedio link for demonstration of the project is https://youtu.be/5ePYND4Dfag.
